@@ -22,9 +22,9 @@ This game uses keyboard inputs.
 This project was developed using Unity Engine v2022.3.32f1.
 | **Role** | **Credit** | **Development Time** |
 | :- | :- | :- |
-| Game programmer | bibyru (Ruby) | 4 days |
-| Project lead | bibyru (Ruby) | 7 days |
-| Visual designer | bibyru (Ruby) | 2 day |
+| Game programmer | bibyru (Ruby) | 2 days |
+| Project lead | bibyru (Ruby) | 3 days |
+| Visual designer | bibyru (Ruby) | 1 day |
 | Game designer | bibyru (Ruby) | 1 day |
 | Sound designer | bibyru (Ruby) | 1 day |
 
