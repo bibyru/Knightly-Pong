@@ -33,7 +33,13 @@ This project was developed using Unity Engine v2022.3.32f1.
 ## ⭐ Scripts and Features
 | **Script** | **Description** |
 | :- | :- |
-| `?` | ? |
+| `BallMovement.cs` | Script for ball to move, reset, and emit sound. |
+| `CamShake.cs` | Script for camera to shake. |
+| `Castle.cs` | Script for castle to change states, add score, and emit sound. |
+| `KnightMovement.cs` | Script for knight (players' avatar) to move. |
+| `P1Input.cs` | Script for knight object to read player 1 input. |
+| `P2Input.cs` | Script for knight object to read player 2 input. |
+| `Score.cs` | Script for managing players' score. |
 
 <br/>
 
